@@ -13,3 +13,7 @@ public:
         return prev;
     }
 };
+
+
+//This is an iterative approach to reverse a singly linked list.
+//Time Complexity: O(n), Space Complexity: O(1)
